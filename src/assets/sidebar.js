@@ -87,7 +87,7 @@ const Sidebar = () => {
                 </button>
             </div>
             <div>
-                <div id="dropdown-cta" className="rounded-2xl dark:bg-blue-900 border-2 m-4 absolute bottom-2" role="alert">
+                <div id="dropdown-cta" className="rounded-2xl border-2 m-4 absolute bottom-2" role="alert">
                     <img src={"https://cdn.dribbble.com/userupload/2767341/file/original-6a588c41f19ff52e43ef7bc7e8cfcb2b.jpg?compress=1&resize=1200x900"} className="rounded-2xl" alt="no task"/>
                     <p className="m-2 text-lg font-bold">
                         No data to show,
